@@ -4,4 +4,4 @@ numpy
 matplotlib
 streamlit-aggrid
 openpyxl
-math
+
